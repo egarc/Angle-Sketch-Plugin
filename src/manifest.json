@@ -32,6 +32,11 @@
       "identifier": "Angle-Reset-Metadata",
       "script": "./reset.js",
       "shortcut": "cmd control \\"
+    },
+    {
+      "name": "Update All Mockups in Page",
+      "identifier": "Angle-Update-All",
+      "script": "./update.js"
     }
   ],
   "menu": {
@@ -40,7 +45,8 @@
       "Angle-Apply-Mockup",
       "Angle-Rotate-Flip",
       "Angle-Rotate-Mockup",
-      "Angle-Reset-Metadata"
+      "Angle-Reset-Metadata",
+      "Angle-Update-All"
     ]
   }
 }
