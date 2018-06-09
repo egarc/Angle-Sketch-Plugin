@@ -4,10 +4,7 @@ import * as Shared from './Shared'
 export default function ({ document, selection, command }) {
 
     if (selection == undefined || selection.count() != 1) {
-        Shared.show({
-            message: "Please, select 1️⃣ element to reset",
-            inDocument: document
-        });
+        document.showMessage("Please, select 1️⃣ element to reset");
         return
     }
 
@@ -16,7 +13,7 @@ export default function ({ document, selection, command }) {
 
     if (!(possibleAngle instanceof Angle)) {
 
-        Shared.show({
+        document.showMessage({
             message: "Reset only works on shapes and symbols.",
             inDocument: document
         });
@@ -30,8 +27,5 @@ export default function ({ document, selection, command }) {
     context.command.setValue_forKey_onLayer(null, "reversed", layer);
     context.command.setValue_forKey_onLayer(null, "guessed-rotation", layer);
 
-    Shared.show({
-        message: "Angle Mockup metadata reset.",
-        inDocument: document
-    });
+    document.showMessage("Angle Mockup metadata reset.");
 }

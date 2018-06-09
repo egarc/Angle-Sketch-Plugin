@@ -188,27 +188,19 @@ function applyAngles (options) {
 
 const Sketch = require('sketch');
 
-export default function (context) {
+export default function ({ api, command, document, plugin, scriptPath, scriptURL, selection }) {
 
-  let { api, command, document, plugin, scriptPath, scriptURL, selection } = context;
-
-  const angleLogo = loadLocalImage(context, "Contents/Resources/logo.png");
+  const angleLogo = loadLocalImage({ api, command, document, plugin, scriptPath, scriptURL, selection }, "Contents/Resources/logo.png");
 
   if (selection == null) {
-    Shared.show({
-      message: Error.emptySelection.message,
-      inDocument: document
-    });
+    document.showMessage(Error.emptySelection.message);
     return
   }
 
   selectedLayers = Array.fromNSArray(selection);
 
   if (selectedLayers.length == 0) {
-    Shared.show({
-      message: Error.emptySelection.message,
-      inDocument: document
-    });
+    document.showMessage(Error.emptySelection.message);
     return
   }
 
@@ -241,7 +233,7 @@ export default function (context) {
     return
   }
 
-  let possibleAngles = Angle.tryCreating({ for: selectedLayers, in: context });
+  let possibleAngles = Angle.tryCreating({ for: selectedLayers, in: { api, command, document, plugin, scriptPath, scriptURL, selection } });
 
   let angles = possibleAngles.filter( a => a instanceof Angle );
   let errors = possibleAngles.filter( a => !(a instanceof Angle) );
@@ -251,28 +243,19 @@ export default function (context) {
       angles: angles,
       artboardsOnSelectPage: artboardsOnSelectPage,
       artboardsOnOtherPages: artboardsOnOtherPages,
-      context: context
+      context: { api, command, document, plugin, scriptPath, scriptURL, selection }
     });
   
     if (appliedShapeAngles) {
-      Shared.show({
-        message: "You got Angled! 📱",
-        inDocument: document
-      });
+      document.showMessage("You got Angled! 📱");
     }
 
     return
   }
 
   if (errors.length == 0) {
-    Shared.show({
-      message: Error.unsupportedElement.message,
-      inDocument: document
-    });
+    document.showMessage(Error.unsupportedElement.message);
   } else {
-    Shared.show({
-      message: errors[0].message,
-      inDocument: document
-    });
+    document.showMessage(errors[0].message);
   }
 }

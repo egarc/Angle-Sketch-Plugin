@@ -62,14 +62,6 @@ Array.prototype.print = function () {
     return this.map ( a => { print(a); return a } )
 }
 
-export function show({ message, inDocument : document}) {
-    if (document != undefined && document.showMessage != undefined) {
-        document.showMessage(message);
-    }
-
-    print(message);
-}
-
 export function filterPossibleArtboards (artboardOrSymbol) {
 
     let upperMaring = 0.8;

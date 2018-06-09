@@ -8,20 +8,14 @@ export default function (context) {
     let selectedLayersNSArray = context.selection;
     
     if (selectedLayersNSArray == null) {
-        Shared.show({
-            message: Error.emptySelection.message,
-            inDocument: context.document
-        });
+        document.showMessage(Error.emptySelection.message);
         return
     }
     
     let selectedLayers = Array.fromNSArray(selectedLayersNSArray);
 
     if (selectedLayers.length == 0) {
-        Shared.show({
-            message: Error.emptySelection.message,
-            inDocument: context.document
-        });
+        document.showMessage(Error.emptySelection.message);
         return
     }
 
@@ -31,10 +25,7 @@ export default function (context) {
     let errors = possibleAngles.filter( a => !(a instanceof Angle) );
 
     if (angles.length == 0) {
-        Shared.show({
-            message: errors[0].message,
-            inDocument: context.document
-        });
+        document.showMessage(errors[0].message);
         return
     }
 
@@ -43,10 +34,6 @@ export default function (context) {
         a.applyImage();
     });
 
-    Shared.show({
-        message: "Angle flipped! ↔️",
-        inDocument: context.document
-    });
-
+    document.showMessage("Angle flipped! ↔️");
     return
 }
