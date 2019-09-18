@@ -30,10 +30,11 @@ export default function (context) {
   var fileManager = NSFileManager.defaultManager();
 
   var parentArtboard;
-  let assignments = context.assignments
+  let assignments = context.assignments;
+  let imagesPath = context.imagesPath;
 
   assignments.forEach(function(a) {
-    let imageURL = a.image;
+    let imageURLString = a.image;
     let layerId = a.target;
     let artboardID = a.source;
 
@@ -41,19 +42,28 @@ export default function (context) {
     var targetLayer = context.document.documentData().layerWithID(layerId)
 
     const selectedLayers = [targetLayer];
-    console.log(`ImageURL: ${imageURL}`);
-    let fileURL = NSURL.URLWithString(imageURL.stringByAddingPercentEscapesUsingEncoding(NSUTF8StringEncoding));
 
-    if( fileManager.fileExistsAtPath(fileURL.path())) {
+    let str = NSMutableString.alloc().init()
+    let pointer = MOPointer.alloc().initWithValue(str)
+
+    str.setString(imagesPath)
+    str.appendString(imageURLString)
+
+    let urlString = pointer.value();
+
+    // console.log(`fileexists? : ${fileManager.fileExistsAtPath(urlString)}\n`);
+    if( fileManager.fileExistsAtPath(urlString)) {
     
-      let replacementImage = NSImage.alloc().initWithContentsOfFile(imageURL);
+      let replacementImage = NSImage.alloc().initWithContentsOfFile(urlString);
+      // console.log(`image: ${replacementImage}\n`)
+      
       var old_width = artboard.frame().width();
       var old_height = artboard.frame().height();
 
       var replaceAction = MSReplaceImageAction.alloc().init();
 
       let children = artboard.childrenIncludingSelf(false);
-      console.log(`Children: ${children}`);
+      // console.log(`Children: ${children}\n`);
 
       replaceAction.applyImage_tolayer(replacementImage, children[0]);
       children[0].frame().setWidth(old_width);
