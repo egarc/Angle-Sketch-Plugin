@@ -70,10 +70,7 @@ var exports =
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
+/***/ (function(module, exports) {
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -102,9 +99,6 @@ var Error = exports.Error = {
 /***/ }),
 /* 1 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -790,10 +784,7 @@ exports["default"] = Angle;
 
 /***/ }),
 /* 2 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
+/***/ (function(module, exports) {
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -803,9 +794,6 @@ var CompressionRatio = exports.CompressionRatio = [{ selectionLabel: "Best", rat
 /***/ }),
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -923,9 +911,6 @@ exports['default'] = SymbolicAngle;
 /***/ }),
 /* 4 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -1266,9 +1251,6 @@ function applyAngles(options) {
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -1557,9 +1539,6 @@ function smallImagesFromArtboard(artboard) {
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -1659,9 +1638,6 @@ exports['default'] = CompositionAngle;
 /***/ }),
 /* 7 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -1769,10 +1745,7 @@ exports['default'] = ShapeAngle;
 
 /***/ }),
 /* 8 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
+/***/ (function(module, exports) {
 
 Object.defineProperty(exports, "__esModule", {
     value: true

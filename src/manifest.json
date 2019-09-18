@@ -28,6 +28,12 @@
       "shortcut": "cmd \\"
     },
     {
+      "name": "Apply Procedure",
+      "identifier": "Angle-Apply-Procedure",
+      "script": "./procedure.js",
+      "shortcut": "cmd \\"
+    },
+    {
       "name": "Reset Mockup",
       "identifier": "Angle-Reset-Metadata",
       "script": "./reset.js",
@@ -37,6 +43,7 @@
   "menu": {
     "title": "Angle",
     "items": [
+      "Angle-Apply-Procedure",
       "Angle-Apply-Mockup",
       "Angle-Rotate-Flip",
       "Angle-Rotate-Mockup",

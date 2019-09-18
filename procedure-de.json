@@ -1,0 +1,232 @@
+[ 
+    {
+        "assignments" : [
+            {
+                "target": "7275600B-263C-49B9-B503-7C0B61C81E5B",
+                "source": "E7740925-73CB-4319-8074-90BDF0296D94",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-0-Home-Sneakers.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "A8CBC999-5485-4215-8CB9-249C6FC6C42F",
+                "source": "E7740925-73CB-4319-8074-90BDF0296D94",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-0-Home-Sneakers.png"
+            },
+            {
+                "target": "C32BAE16-9755-4F94-B5BF-1532F8572790",
+                "source": "36F23443-8C78-44E8-9C56-494EA4033B74",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-3-Home-Handbags.png"
+            },
+            {
+                "target": "112CE9A8-135A-4A83-BC9A-3F32A60FD821",
+                "source": "E3BC200C-B77C-402A-B483-A15EC4DB9E7D",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-2-Home-Watches.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "EBC3EC7A-837F-4756-BD6A-FEA244F63F19",
+                "source": "47E08D7D-72DE-4C53-9326-87218DE1FB3A",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-4-Product.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "4D348573-0104-4F4C-96BC-9D5683B2DEF5",
+                "source": "FAFA423A-C0E1-4D1E-9F52-E9F8DA075427",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-5-Buy.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "C15918DB-E294-416E-85EE-1AAC29906713",
+                "source": "A408B707-4255-4603-9D4F-58169E4B74DB",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ 8-6-Portfolio.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "2B564420-4CF3-4371-8EBB-E314A0E22CFB",
+                "source": "AA9AB5FF-C266-42E3-92CF-FD4A39D91682",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-0-Home-Sneakers.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "07ABB0F0-0750-46E3-9427-2FD05B3FF50D",
+                "source": "AA9AB5FF-C266-42E3-92CF-FD4A39D91682",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-0-Home-Sneakers.png"
+            },
+            {
+                "target": "4CA3CD47-B9BC-43E2-9CC3-38990822BB94",
+                "source": "EFFBDDF6-01E4-4AD0-8A3D-31DA487A61FF",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-3-Home-Handbags.png"
+            },
+            {
+                "target": "064C1CBD-8FAF-440D-A32A-9419146BAB3F",
+                "source": "E1862CED-4725-454C-B7EF-4B4D917D3552",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-2-Home-Watches.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "55B93115-6C67-471D-A293-40A2123E4B29",
+                "source": "3F92BBAC-D40F-4142-A7CB-8ED6C10C6B4A",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-4-Product.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "3555E1D0-C1EE-4787-8A50-885B3CDE749C",
+                "source": "DB21CFBC-0891-49B5-B544-1943F6A9C0A6",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-5-Buy.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "9E552B5F-7A11-4EF2-AA3F-EB9CA89F3F27",
+                "source": "5FD024CB-D95F-48C3-9F80-4622E88AF91D",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPhone\ Xs\ Max-6-Portfolio.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "E3DD99AB-646F-4726-8CA0-D75720A5F8B1",
+                "source": "3E869FBF-3D82-4416-9A8B-2D547F3515D4",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-0-Home-Sneakers.png"
+            },
+            {
+                "target": "D098EFF4-0048-44CD-88A6-60FCB7343B2F",
+                "source": "8A9CF0BC-2551-479E-8702-2F4EC484A225",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-3-Home-Handbags.png"
+            },
+            {
+                "target": "1EE407A4-BCE0-4CEF-BA0C-3AB80B27D512",
+                "source": "3BF47CA8-9E13-445F-A3F3-C9A97D27D944",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-2-Home-Watches.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "677370BB-331F-4D03-AF32-75F7011B3CB1",
+                "source": "3E869FBF-3D82-4416-9A8B-2D547F3515D4",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-0-Home-Sneakers.png"
+            },
+            {
+                "target": "C4F9DDB1-8717-47CB-A3D2-81143856E2FD",
+                "source": "8A9CF0BC-2551-479E-8702-2F4EC484A225",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-3-Home-Handbags.png"
+            },
+            {
+                "target": "F5F1277B-7292-4B08-AC50-BEA44CDFB432",
+                "source": "3BF47CA8-9E13-445F-A3F3-C9A97D27D944",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-2-Home-Watches.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "20C84520-5B56-4B65-A449-FAF6AB628BB4",
+                "source": "37FDC9D6-75D7-42D8-AE20-C7984C506156",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-4-Product.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "44417AFD-EEAA-42D6-909B-D7350B370CEA",
+                "source": "5139A9F4-9EC7-4201-9AF3-7EC72B3D4486",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-5-Buy.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "A42D1436-6486-4D83-A9E3-4C058C270F35",
+                "source": "6246B4E0-FDAB-43E4-A7FB-E50F61D8F856",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-6-Portfolio.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "F71E0333-EA0A-439A-97F6-E638FDF953FC",
+                "source": "3E869FBF-3D82-4416-9A8B-2D547F3515D4",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-0-Home-Sneakers.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "3FA4B76E-A4E5-4E6A-B090-99FB35A15D0F",
+                "source": "3E869FBF-3D82-4416-9A8B-2D547F3515D4",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-0-Home-Sneakers.png"
+            },
+            {
+                "target": "229E9B39-CFC4-4D6C-B225-9AF769CAD259",
+                "source": "8A9CF0BC-2551-479E-8702-2F4EC484A225",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-3-Home-Handbags.png"
+            },
+            {
+                "target": "DAB20F2B-FF75-4CB3-9951-FEDA75DEDD6F",
+                "source": "3BF47CA8-9E13-445F-A3F3-C9A97D27D944",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-2-Home-Watches.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "ECFED2C9-67F5-4185-BD84-2901CF46E76A",
+                "source": "37FDC9D6-75D7-42D8-AE20-C7984C506156",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-4-Product.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "DE5223E5-D75B-4B14-B51B-C3EAF8E3C665",
+                "source": "5139A9F4-9EC7-4201-9AF3-7EC72B3D4486",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-5-Buy.png"
+            }
+        ]
+    },
+    {
+        "assignments" : [
+            {
+                "target": "719C0032-8350-4F09-9F72-1E537EF4A455",
+                "source": "6246B4E0-FDAB-43E4-A7FB-E50F61D8F856",
+                "image": "/Users/jacobmartin/Documents/Development/screenshots/images/de-DE/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-6-Portfolio.png"
+            }
+        ]
+    }
+  ]

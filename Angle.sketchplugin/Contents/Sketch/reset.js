@@ -72,9 +72,6 @@ var exports =
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -759,10 +756,7 @@ exports["default"] = Angle;
 
 /***/ }),
 /* 1 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
+/***/ (function(module, exports) {
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -791,9 +785,6 @@ var Error = exports.Error = {
 /***/ }),
 /* 2 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -912,9 +903,6 @@ exports['default'] = SymbolicAngle;
 /* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -972,10 +960,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'd
 
 /***/ }),
 /* 4 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
+/***/ (function(module, exports) {
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -985,9 +970,6 @@ var CompressionRatio = exports.CompressionRatio = [{ selectionLabel: "Best", rat
 /***/ }),
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -1277,9 +1259,6 @@ function smallImagesFromArtboard(artboard) {
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -1379,9 +1358,6 @@ exports['default'] = CompositionAngle;
 /***/ }),
 /* 7 */
 /***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
 
 Object.defineProperty(exports, "__esModule", {
     value: true
