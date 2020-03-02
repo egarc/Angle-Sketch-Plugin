@@ -34,9 +34,11 @@ run_procedure('procedure.json')
 run_procedure('procedure-it.json')
 run_procedure('procedure-de.json')
 run_procedure('procedure-fr.json')
+run_procedure('procedure-zh-cn.json')
 run_procedure('procedure.json')
 run_procedure('procedure-it.json')
 run_procedure('procedure-de.json')
 run_procedure('procedure-fr.json')
+run_procedure('procedure-zh-cn.json')
 
 end

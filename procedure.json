@@ -1,8 +1,8 @@
-[ 
+[
     {
         "assignments" : [
             {
-                "target": "B4E2C882-CDEB-421A-BA92-380B5070B602",
+                "target": "3A94E85F-86A2-4D41-95EC-583249689806",
                 "source": "34457903-E0EB-4586-A744-D3E685977E76",
                 "image": "images/en-US/iPhone\ 8-0-Home-Sneakers.png"
             }
@@ -11,7 +11,7 @@
     {
         "assignments" : [
             {
-                "target": "6C01F22D-689F-49AB-AC9F-42AF60950C21",
+                "target": "1CFA2E0D-6F16-4781-B7B8-511F7F4E2CBB",
                 "source": "34457903-E0EB-4586-A744-D3E685977E76",
                 "image": "images/en-US/iPhone\ 8-0-Home-Sneakers.png"
             },
@@ -59,7 +59,7 @@
             {
                 "target": "909BB027-5E75-4D24-9B1B-006093E2865E",
                 "source": "2479C416-B04E-4156-BDB9-C91378D436CA",
-                "image": "images/en-US/iPhone\ Xs\ Max-0-Home-Sneakers.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-0-Home-Sneakers.png"
             }
         ]
     },
@@ -68,17 +68,17 @@
             {
                 "target": "44F7BF48-FA36-44CD-9445-F0F51CDF9B1F",
                 "source": "2479C416-B04E-4156-BDB9-C91378D436CA",
-                "image": "images/en-US/iPhone\ Xs\ Max-0-Home-Sneakers.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-0-Home-Sneakers.png"
             },
             {
                 "target": "1128F290-4750-4E79-B505-A01D5437FB2E",
                 "source": "171B4470-B46C-4263-BE90-FF7BBB86EB8C",
-                "image": "images/en-US/iPhone\ Xs\ Max-3-Home-Handbags.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-3-Home-Handbags.png"
             },
             {
                 "target": "3C937772-D180-4DFE-AE91-DD25278570D8",
                 "source": "EEA9BCC6-20E2-4468-B2C5-4B2BDC111620",
-                "image": "images/en-US/iPhone\ Xs\ Max-2-Home-Watches.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-2-Home-Watches.png"
             }
         ]
     },
@@ -87,7 +87,7 @@
             {
                 "target": "77010A98-0D6D-4A70-996F-ED696D9F8A14",
                 "source": "192884A3-09FE-4FFC-8BF0-DD0FDE369CD5",
-                "image": "images/en-US/iPhone\ Xs\ Max-4-Product.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-4-Product.png"
             }
         ]
     },
@@ -96,7 +96,7 @@
             {
                 "target": "D6ADA09D-327F-4BEC-B88C-31E5952A68D4",
                 "source": "278C6FC7-9461-4FAD-866C-B314E3F46346",
-                "image": "images/en-US/iPhone\ Xs\ Max-5-Buy.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-5-Buy.png"
             }
         ]
     },
@@ -105,7 +105,7 @@
             {
                 "target": "A3182CFB-5E6D-4A26-B68F-80E701A30EF8",
                 "source": "885F2A0C-5DD5-4417-A549-1FA31D63DDBA",
-                "image": "images/en-US/iPhone\ Xs\ Max-6-Portfolio.png"
+                "image": "images/en-US/iPhone\ 11\ Pro\ Max-6-Portfolio.png"
             }
         ]
     },
@@ -179,7 +179,7 @@
             {
                 "target": "485B7188-6334-452F-AE20-4040648399B6",
                 "source": "0C2A4CFA-CCD4-440F-856E-B24F3887982C",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-0-Home-Sneakers.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-0-Home-Sneakers.png"
             }
         ]
     },
@@ -188,17 +188,17 @@
             {
                 "target": "47A65338-1B41-4B4B-961D-40E6AA92C788",
                 "source": "0C2A4CFA-CCD4-440F-856E-B24F3887982C",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-0-Home-Sneakers.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-0-Home-Sneakers.png"
             },
             {
                 "target": "5E14BCF7-4B05-4D12-8A7A-D684743398D1",
                 "source": "707DD2E9-7AAF-474D-AD63-BDBA1F9BD085",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-3-Home-Handbags.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-3-Home-Handbags.png"
             },
             {
                 "target": "9E4E5F3E-4DD5-443B-84F4-32CD42B1E3D9",
                 "source": "6A2D46A6-CEBB-43E0-91E0-C8AB164D4A3E",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-2-Home-Watches.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-2-Home-Watches.png"
             }
         ]
     },
@@ -207,7 +207,7 @@
             {
                 "target": "884D3878-AB39-4A96-8FCF-8FDB9F3DB034",
                 "source": "D35E7D6A-D4DF-494B-9EC1-B18591B0A846",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-4-Product.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-4-Product.png"
             }
         ]
     },
@@ -216,7 +216,7 @@
             {
                 "target": "F0D9922C-6AB1-42E0-822D-C4D0417E4D32",
                 "source": "D719B59B-7540-4454-8D92-D422997EEB5A",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-5-Buy.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-5-Buy.png"
             }
         ]
     },
@@ -225,7 +225,7 @@
             {
                 "target": "2AB08627-A19A-468A-8C79-E0ABBEA7220F",
                 "source": "09B89EC2-3979-4EF9-AA88-ADEBF5E2EA38",
-                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (2nd\ generation)-6-Portfolio.png"
+                "image": "images/en-US/iPad\ Pro\ (12.9-inch)\ (3rd\ generation)-6-Portfolio.png"
             }
         ]
     }
