@@ -1,6 +1,6 @@
 {
   "bundleVersion": 1,
-  "version": "1.1.3",
+  "version": "1.1.4",
   "icon": "icon.png",
   "identifier": "io.designcode.Angle",
   "description": "Apply perspective transforms on screen mockups. Auto-detect screens by resolution and works on shapes and symbols. Super fast.",
@@ -28,6 +28,12 @@
       "shortcut": "cmd \\"
     },
     {
+      "name": "Apply Procedure",
+      "identifier": "Angle-Apply-Procedure",
+      "script": "procedure.js",
+      "shortcut": "cmd \\"
+    },
+    {
       "name": "Reset Mockup",
       "identifier": "Angle-Reset-Metadata",
       "script": "reset.js",
@@ -37,6 +43,7 @@
   "menu": {
     "title": "Angle",
     "items": [
+      "Angle-Apply-Procedure",
       "Angle-Apply-Mockup",
       "Angle-Rotate-Flip",
       "Angle-Rotate-Mockup",
